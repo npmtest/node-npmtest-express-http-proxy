@@ -1,4 +1,7 @@
-# test coverage for  [express-http-proxy (v0.11.0)](https://github.com/villadora/express-http-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-express-http-proxy)
+# npmtest-express-http-proxy
+
+#### basic test coverage for  [express-http-proxy (v0.11.0)](https://github.com/villadora/express-http-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-express-http-proxy)
+
 #### http proxy middleware for express
 
 [![NPM](https://nodei.co/npm/express-http-proxy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-http-proxy)
